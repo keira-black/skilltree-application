@@ -1,0 +1,375 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"J",
+				"jsonify"
+			],
+			[
+				"add",
+				"add(node)\ttypescript.js"
+			],
+			[
+				"NOTICE_",
+				"NOTICE_PAUSE\ttetris_clone.js"
+			],
+			[
+				"link",
+				"link1_A"
+			],
+			[
+				"experiene",
+				"experienceToNextLevel(CP, CurrentExp)\tcombat.js"
+			],
+			[
+				"DEF_GR",
+				"DEF_GRIDHEIGHT"
+			],
+			[
+				"DEF",
+				"DEF_GRIDWIDTH"
+			],
+			[
+				"DEF_",
+				"DEF_SCALING_FACTOR"
+			],
+			[
+				"DEF_OFF",
+				"DEF_OFFSET_TOP"
+			],
+			[
+				"SCA",
+				"SCALING_FACTOR"
+			],
+			[
+				"guid",
+				"getUID(prefix)\tbootstrap.js"
+			],
+			[
+				"max-",
+				"max-width\tproperty"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"onlo",
+				"onload\tAttr"
+			],
+			[
+				"_draw",
+				"_drawWholeMap"
+			],
+			[
+				"_dra",
+				"_drawWholeMap"
+			],
+			[
+				"fiel",
+				"fileName"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app.py",
+			"settings":
+			{
+				"buffer_size": 2048,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Advanced Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+			"console.log(\"hi\")",
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/pixeldust/Desktop/Link to SkillTree/Backend"
+	],
+	"file_history":
+	[
+		"/home/pixeldust/Code/chord/flotsam/combat_and_level/display.html",
+		"/home/pixeldust/Code/chord/flotsam/preact/chord/src/routes/room/style.css",
+		"/home/pixeldust/Code/chord/flotsam/preact/chord/src/routes/room/index.js",
+		"/home/pixeldust/Code/chord/flotsam/preact/chord/src/routes/inventory/style.css",
+		"/home/pixeldust/Code/chord/flotsam/preact/chord/src/routes/inventory/index.js",
+		"/home/pixeldust/Code/chord/flotsam/preact/chord/src/routes/character_sheet/style.css",
+		"/home/pixeldust/Code/chord/flotsam/preact/chord/src/routes/character_sheet/index.js",
+		"/home/pixeldust/Code/chord/flotsam/preact/chord/src/routes/menu/style.css",
+		"/home/pixeldust/Code/chord/flotsam/preact/chord/src/routes/menu/Menu.js",
+		"/home/pixeldust/Code/chord/flotsam/preact/chord/src/routes/profile/index.js",
+		"/home/pixeldust/Code/chord/flotsam/combat_and_level/combat_ecs.js",
+		"/home/pixeldust/Code/chord/flotsam/preact/index.js",
+		"/home/pixeldust/Code/chord/flotsam/preact/chord/src/components/app.js",
+		"/home/pixeldust/Code/chord/flotsam/preact/chord/src/routes/Menu/index.js",
+		"/home/pixeldust/Code/chord/flotsam/preact/chord/src/routes/Room/index.js",
+		"/home/pixeldust/Code/chord/flotsam/preact/chord/src/routes/Menu/style.css",
+		"/home/pixeldust/Code/chord/flotsam/preact/chord/src/components/header/index.js",
+		"/home/pixeldust/Code/chord/flotsam/preact/chord/src/routes/Game/index.js",
+		"/home/pixeldust/Code/chord/flotsam/preact/chord/src/routes/Game/style.css",
+		"/home/pixeldust/Code/chord/flotsam/preact/chord/src/routes/Character_Sheet/style.css",
+		"/home/pixeldust/Code/chord/flotsam/preact/chord/src/routes/Inventory/style.css",
+		"/home/pixeldust/Code/chord/flotsam/preact/chord/src/routes/Room/style.css",
+		"/home/pixeldust/Code/chord/flotsam/combat_and_level/combat.js",
+		"/home/pixeldust/Code/chord/flotsam/combat_and_level/roomandmap.js",
+		"/home/pixeldust/Code/chord/flotsam/combat_and_level/digraph.js",
+		"/home/pixeldust/Code/chord/flotsam/preact/chord/node_modules/typescript/lib/lib.es5.d.ts",
+		"/home/pixeldust/Code/chord/README.md",
+		"/home/pixeldust/Code/chord/core/grid.js",
+		"/home/pixeldust/Code/chord/config/views/map/alert.js",
+		"/home/pixeldust/Code/chord/config/views/index.html",
+		"/home/pixeldust/Code/chord/config/views/index.css",
+		"/home/pixeldust/Code/chord/core/index.html",
+		"/home/pixeldust/Code/chord/story-bits/untitled",
+		"/home/pixeldust/Code/chord/core/what.js",
+		"/home/pixeldust/Code/chord/server.js",
+		"/home/pixeldust/.config/sublime-text-3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/home/pixeldust/Code/dungeonsandgenerators/README.md",
+		"/home/pixeldust/Code/dungeonsandgenerators/src/tstropts.js",
+		"/home/pixeldust/Code/meh/index.js",
+		"/home/pixeldust/Code/dungeonsandgenerators/src/Player.js",
+		"/home/pixeldust/Code/pandemic clone/p1/index.html",
+		"/home/pixeldust/Code/dungeonsandgenerators/src/infobox.js",
+		"/home/pixeldust/Code/dungeonsandgenerators/infobox.js",
+		"/home/pixeldust/Code/DungeonGame/style.css",
+		"/home/pixeldust/Code/DungeonGame/player.js",
+		"/home/pixeldust/Code/DungeonGame/graphics.js",
+		"/home/pixeldust/Code/simulthing/index.js",
+		"/home/pixeldust/Code/DungeonGame/node-babel/src/index.html",
+		"/home/pixeldust/Code/DungeonGame/views/index.html",
+		"/home/pixeldust/Code/DungeonGame/src.js",
+		"/home/pixeldust/Code/DungeonGame/node-babel/src/server.js",
+		"/home/pixeldust/Code/DungeonGame/node-babel/src/index.js",
+		"/home/pixeldust/Code/DungeonGame/server.js",
+		"/home/pixeldust/Code/DungeonGame/index.html",
+		"/home/pixeldust/Code/Dungeon_Game/index.js",
+		"/home/pixeldust/Code/Dungeon_Game/index.html",
+		"/home/pixeldust/Code/Dungeon_Game/server.js",
+		"/home/pixeldust/Code/appthing/myapp/src/App.js",
+		"/home/pixeldust/Code/sockets/index.html",
+		"/home/pixeldust/Code/sockets/index.js",
+		"/home/pixeldust/Code/sockets/src/login.js",
+		"/home/pixeldust/Code/sockets/mainStyle.css"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 98.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"user"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"module"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2048,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								239,
+								239
+							]
+						],
+						"settings":
+						{
+							"SL.43.region_keys":
+							[
+							],
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								}
+							],
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 9.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "skilltree.sublime-project",
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 318.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
