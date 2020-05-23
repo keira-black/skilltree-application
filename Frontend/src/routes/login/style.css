@@ -1,0 +1,94 @@
+.login {
+	min-height: 100%;
+}
+
+.cardBody {
+	padding: 16px;
+	padding-top:16px;
+	padding-left: 48px;
+	padding-right: 48px;
+ 	font-size: 20px;
+}
+
+.loginOutline {
+	background: #1F2134;
+	border: 2px solid #7ab72d;
+	border-radius: 15px;
+	color: #7ab72d;
+	padding-top: 16px;
+	width: 30%;
+	width: 320px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.loginField {
+	border-radius: 0px;
+	border: 1px solid #5f7077;
+	background-color: #486583;
+	height: 2em;
+	color: #7ab72d;
+	font-size: 15px;
+	padding-left: 10px;
+	text-align: bottom;
+	margin-top: 5px;
+	margin-bottom: 10px;
+}
+
+.loginLabel {
+	width: 220px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.submit {
+	border: 2px solid #7ab72d;
+	background-color: #1f2134;
+	font-size: 20px;
+	color: #7ab72d;	
+	border-radius: 10px;
+	padding: 5px;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin-left: 48px;
+	margin-top: 5px;
+}
+
+.submitIcon{
+	font-size:25px;
+	color: #486583;
+}
+
+.submitButtonText{
+	padding-right: 5px;
+	font-weight: 500;
+	position: relative;
+	top: -3px;
+}
+
+.title{
+	width: 220px;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 50px;
+	font-weight: bold;
+	text-shadow: -1px 1px 0 #486583,
+				  1px 1px 0 #486583,
+				 1px -1px 0 #486583,
+				-1px -1px 0 #486583;
+    padding-bottom: 10px;
+}
+
+.bottomText {
+	font-size: 15px;
+	color: #486583;
+	width: 160px;
+	padding-top: 16px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.registerLink {
+	color: #7ab72d;
+	text-decoration: none;
+}
